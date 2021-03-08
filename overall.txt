@@ -1,0 +1,5 @@
+4
+tool
+gadget
+phone
+capacity

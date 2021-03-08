@@ -1,0 +1,7 @@
+6
+camera
+shots
+crop
+autofocus
+zoom
+image
